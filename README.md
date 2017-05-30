@@ -1,2 +1,2 @@
-# itiraf
-İtiraf Script
+# Forum Script
+Forum Script for University
